@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ZHUBux",
+  "name": "ZHU Bux",
+  "description": "A very simple economy addon for the ZHU Minecraft server.",
+  "version": "1.7.10-1.0",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/Chris97b/ZHUBux",
+  "updateUrl": "",
+  "authorList": ["Chris97b"],
+  "credits": "Chris97b, Im_Doctor_Chaos, mrcomm",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
